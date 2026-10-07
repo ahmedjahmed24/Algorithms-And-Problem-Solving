@@ -14,7 +14,7 @@ A professional, engineering-grade C++ repository documenting **150+ logic-buildi
 | :--- | :--- | :--- | :---: |
 | **`Level-1`** | Basic Logic & Foundations | Conditional Statements, Loops, Functions, Structs | ✅ Completed |
 | **`Level-2`** | Intermediate Logic & Projects | Arrays, Randomization, Math Algorithms, Console Games | ✅ Completed |
-| **`Level-3`** | Matrices & String Manipulation | 2D Arrays, Matrix Operations, Advanced Strings | ⏳ In Progress |
+| **`Level-3`** | Matrices & String Manipulation | 2D Arrays, Matrix Operations, Advanced Strings | ✅ Completed |
 | **`Level-4`** | Advanced Algorithms & Logic | Datetime Logic, Complex Algorithmic Logic | ⏳ Upcoming |
 
 ---
