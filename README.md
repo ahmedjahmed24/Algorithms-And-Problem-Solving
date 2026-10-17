@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Level--4-Completed-success?style=for-the-badge)
 ![Code Standard](https://img.shields.io/badge/Clean_Code-Snake__Case-brightgreen?style=for-the-badge)
 
-A structured, industry-standard C++ portfolio demonstrating progressive growth in software engineering, algorithms, data structures, and system design.
+A C++ software portfolio bridging solid algorithmic problem-solving with Clean Code standards. Featuring modular console architectures, data structures, and production-ready CLI systems like full Bank and ATM management platforms.
 
 ---
 
